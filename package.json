@@ -1,0 +1,23 @@
+{
+  "name": "rxjsnodedemo",
+  "version": "1.0.0",
+  "description": "Experiments with rxjs in Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LonnyGomes/rxjsNodeDemo.git"
+  },
+  "author": "Lonny Gomes <code@lonnygomes.com> (https://github.com/LonnyGomes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LonnyGomes/rxjsNodeDemo/issues"
+  },
+  "homepage": "https://github.com/LonnyGomes/rxjsNodeDemo#readme",
+  "dependencies": {
+    "rxjs": "^5.5.1"
+  }
+}
